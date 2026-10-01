@@ -2,6 +2,9 @@
 
 ## AI Evaluation & Benchmarking · Lab Worksheet
 
+**Học viên:** Trần Công Thiện
+**MSSV:** 2A202602579
+
 **Thời gian làm bài:** 9:15–12:00
 
 **Domain:** OrbitTech Store Customer Support
